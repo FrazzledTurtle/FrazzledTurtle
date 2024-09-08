@@ -8,3 +8,4 @@ Currently working as a Linux security engineer by applying security patches to s
 I am planning to go into the embedded world again, after taking a break from it, by posting some of my personal projects in here. I am focusing on using Rust language in embedded devices to see its potential compared to the traditional way of writing firmware in C.
 
 <a href="https://app.daily.dev/frazzledturtle"><img src="./devcard.png"  width="356" alt="heart's Dev Card"/></a>
+<a href="https://www.buymeacoffee.com/frazzledturtle"><img src="https://img.buymeacoffee.com/button-api/?text=Feed my coffee addiction.&emoji=☕&slug=frazzledturtle&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
