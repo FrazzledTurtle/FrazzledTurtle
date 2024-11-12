@@ -9,6 +9,6 @@ I am planning to go into the embedded world again, after taking a break from it,
 <br/><br/>
 <p align="center">
     <a href="https://app.daily.dev/frazzledturtle">
-    <img src="./devcard.png" width="750" alt="heart's Dev Card" />
+    <img src="./devcard.png" width="700" alt="heart's Dev Card" />
     </a>
 </p>
