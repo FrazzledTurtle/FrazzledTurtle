@@ -1,10 +1,9 @@
-- Hello, I’m @FrazzledTurtle
+#### - Who am I?
+- I’m an aspiring Embedded Systems Engineer with three years of experience in the field. I have a strong passion for hardware engineering, specializing in firmware development using FPGAs and System-on-Chips to create complex boards for applications in photonics, sound, and RF technologies. I’ve designed numerous industrial-grade devices and test benches tailored to specific requirements.
 
-- Who am I?
-    I’m an aspiring Embedded systems engineer with three years of experience in the embedded field, with a passion in hardware engineering, developing firmware using FPGA or System-On-Chips to build complex boards applied in photonics, sound engineering and RF applications. I have designed many indrustrial grade devices and testbenches based on the specifications required. My work has heavily relied in using Linux-oriented embedded systems, and because of that, I've seen what's all the fuss about Linux. Since then, I've migrated all of my personal devices and workflow entirely based on Linux and I am never going back.
+#### - What am I up to?
+- Currently, I’m working as a Linux Security Engineer, focusing on applying security patches to server network infrastructure and hardening Linux systems and kernels. After taking a break from embedded device design and programming, I’m excited to dive back in and share some of my personal projects. My current focus is exploring the Rust programming language by migrating a couple of my project to it, to evaluate its potential compared to traditional firmware development in C, alongside some new hardware designs.
 
-- What am I up to?
-Currently working as a Linux security engineer by applying security patches to server network infrastructure and hardening Linux systems and kernels.I am planning to go into the embedded world again, after taking a break from it, by posting some of my personal projects in here. I am focusing on using Rust language in embedded devices to see its potential compared to the traditional way of writing firmware in C as well as a couple of hardware designs.
 <br/><br/>
 <p align="center">
     <a href="https://app.daily.dev/frazzledturtle">
