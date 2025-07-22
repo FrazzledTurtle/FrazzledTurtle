@@ -1,9 +1,8 @@
-#### Who am I?
-- I’m an aspiring Embedded Systems Engineer with three years of experience in the field. I have a strong passion for hardware engineering, specializing in firmware development using FPGAs and System-on-Chips to create complex boards for applications in photonics, sound, and RF technologies. I’ve designed numerous industrial-grade devices and test benches tailored to specific requirements.
+<h2>Who am I?</h2>
+I'm an R&D Embedded Systems Engineer with three years of experience designing secure, efficient, and reliable embedded solutions. I specialize in firmware and Hardware Abstraction Layer (HAL) development of microcontrollers and System-on-Chips (SoCs), to create robust hardware–software systems that drive smart technologies in urban environments.
+I've engineered industrial-grade devices for applications in photonics, acoustics, and RF systems, along with developing custom test benches tailored to specific hardware validation needs.
 
-#### What am I up to?
-- Currently, I’m working as a Security Engineer, focusing on applying security patches to server network infrastructure and hardening Linux systems and kernels. After taking a break from embedded device design and programming, I’m excited to dive back in and share some of my personal projects. My current focus is exploring the Rust programming language by migrating a couple of my project to it, to evaluate its potential compared to traditional firmware development in C, alongside some new hardware designs.
-
+My work is driven by the belief that technology should be sustainable, modular, easy to repair, secure, and seamlessly integrated into public life — not hidden in walls or tethered to constant maintenance. I’m passionate about building the future of smart cities through energy-conscious, autonomous, and privacy-aware designs.
 <br/><br/>
 <p align="center">
     <a href="https://app.daily.dev/frazzledturtle">
